@@ -1,1 +1,1 @@
-Select * from jobs 
+Select top 10 * from jobs 
