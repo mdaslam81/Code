@@ -1,1 +1,1 @@
-Select top 10 * from emp_main
+Select top 10 * from emp_main where employee_id = '104089267'
