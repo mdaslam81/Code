@@ -1,0 +1,1 @@
+Select top 10 * from scheduled_jobs where term_cd='20F'
